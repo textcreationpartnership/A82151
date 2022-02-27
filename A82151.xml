@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A Declaration of the further proceedings of the English fleet upon the coast of Holland, with their falling upon the strong town of Flushing, the playing of their great ordnance upon the forts and bulworks; the event and success thereof, and the drawing their land forces to the sea-coast. Likewise the blocking up of the Texel, by Vice-Admiral Pen, the taking of the great Admiral, wherein was Vantrump, the plucking down of the Dutch colours, and setting up of the English standard. With the orders of the states of Holland thereupon, published throughout the United Provinces. Together with a narrative of the last great and lamentable fight, and the number killed and taken prisoners on both sides.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A82151</idno>
+            <idno type="STC">Wing D671</idno>
+            <idno type="STC">Thomason E699_11</idno>
+            <idno type="STC">ESTC R207042</idno>
+            <idno type="EEBO-CITATION">99866118</idno>
+            <idno type="PROQUEST">99866118</idno>
+            <idno type="VID">118382</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A82151)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118382)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 108:E699[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A Declaration of the further proceedings of the English fleet upon the coast of Holland, with their falling upon the strong town of Flushing, the playing of their great ordnance upon the forts and bulworks; the event and success thereof, and the drawing their land forces to the sea-coast. Likewise the blocking up of the Texel, by Vice-Admiral Pen, the taking of the great Admiral, wherein was Vantrump, the plucking down of the Dutch colours, and setting up of the English standard. With the orders of the states of Holland thereupon, published throughout the United Provinces. Together with a narrative of the last great and lamentable fight, and the number killed and taken prisoners on both sides.</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Geo. Horton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "June 9th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Anglo-Dutch War, 1652-1654 --  Early works to 1800.</term>
+               <term>Flushing (Netherlands) --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2012-08</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118382:1" rendition="simple:additions"/>
+            <p>A DECLARATION Of the further PROCEEDINGS OF THE Engliſh Fleet upon the Coaſt of Holland, with their falling upon the ſtrong Town of <hi>Fluſhing,</hi> the playing of their great Ordnance upon the Forts and Bulworks; the event and ſucceſs thereof, and the drawing their land forces to the ſea-coaſt.</p>
+            <p>Likewiſe the blocking up of the Texel, by Vice-Admiral Pen, the taking of the great Ad<g ref="char:EOLhyphen"/>miral, wherein was <hi>Vantrumo,</hi> the plucking down of the Dutch Colours, and ſetting up of the Engliſh Standard. With the Orders of the States of <hi>Holland</hi> thereupon, <hi>publiſhed throughout the <g ref="char:V">Ʋ</g>nited Provinces.</hi>
+            </p>
+            <p>Together with a Narrative of the laſt great and la<g ref="char:EOLhyphen"/>mentable Fight, and the number killed and taken priſoners on both ſides.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for Geo. Horton, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="account">
+            <pb facs="tcp:118382:2"/>
+            <pb n="3" facs="tcp:118382:2"/>
+            <opener>
+               <salute>Right Honorable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">S</seg>Ince our firſt dayes Engagement with the enemy, it hath pleaſed the great Omniſciency of Hea<g ref="char:EOLhyphen"/>ven ſtill to crown every days Action with a more glorious Victory; and, truly, very opportunely came in his Excellency Gen. Blake to our aſſiſtance, who charged quite through the enemies fleet, on Friday, and made ſuch an intervale amongſt their men of war, that many were ſeen to ſink before ſix in the evening: The diſpute was very hot, and performed with great gallantry from ten in the morning til ten at night, by which time, We had taken 1350 priſoners,
+<pb n="4" facs="tcp:118382:3"/>whereof ſix Captains, 11 ſhips, ſunk ſix, and fired three; but in all the ſeveral En<g ref="char:EOLhyphen"/>gagements we have ſunk taken, a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d burnt about 40, amongſt the reſt, the great Ad<g ref="char:EOLhyphen"/>miral of Holland, called he Brederode, in which was Vantrump, but he narrowly e<g ref="char:EOLhyphen"/>ſcaped out at one of the Port holes in a Cock-Boat. VVe have taken down the Dutch Colours both from the Admiral, and the two Rear admirals, and have ſet up the Engliſh Enſignes, with the States armes.</p>
+            <p>We have diſpierced th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ir great Armado, and beaten them into their own Ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bours, having al<g ref="char:EOLhyphen"/>la<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um'd the whole Countrey, ſo that we hear moſt of the Boors are up in armes.</p>
+            <p>The States have Ordered that all the Maritine Towns be re-inforced with ſundry companies out of the old ſtanding Regiments, that ſo they may thereby prevent the landing of the Engliſh. They have alſo ordered that the ſeveral Sluces be forth<g ref="char:EOLhyphen"/>with put in a readineſs, for the letting in of the ſeas, if neceſſitated thereunto.</p>
+            <pb n="5" facs="tcp:118382:3"/>
+            <p>We hear likewiſe that the States have ſet forth a Declaration to be publiſhed throughout all the U<g ref="char:EOLhyphen"/>nited Provinces, inciting the Burgomaſters, and o<g ref="char:EOLhyphen"/>thers, to a general Convention at the Hague, there to conſult upon a way, for a Reconciliation be<g ref="char:EOLhyphen"/>tween the two Republicks. O what is more wiſhed or would be more welcome then peace? What is better or ſweeter then peace? what is more ſplen<g ref="char:EOLhyphen"/>did and beautiful then peace? Peace is that fair <hi>Aſtraea</hi> that linketh men tog<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ther in the golden fet<g ref="char:EOLhyphen"/>ters of mutuall Amity, and maketh them to live as if their perſons being many, their ſoules were but one. Peace is the harmony of the world, the ſmile and ferenity of the earth, the hanſel and image of our happineſs in Heaven, the tut<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lar Saint of Kings and Princes, the very form or ſoul of a Common<g ref="char:EOLhyphen"/>wealth, the Nurſery of Arts, ſhortly, a Paradiſe where all accommodations for this life and the next do grow.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard the Speaker off of the Willings,</hi> 
+                  <date>June 8. 1653.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="account">
+            <pb n="6" facs="tcp:118382:4"/>
+            <head>Another Letter from the Navy, touching the great fight on Sunday and Munday laſt.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>HAving perſued the enemy even to their own Coaſt upon Friday night, we rode at anchor at ſix fatham Water, di<g ref="char:EOLhyphen"/>vers of the Dutch rode between 3 and 4, &amp; on Saturday morning expected to have put into harbour; but the Winds were ſo croſs, that We were all forced to ſtand off to ſea, and on the Sabbath day about 6 in the morning, We Weather-gaged them, and came up again, letting fly above 1000 ſhot at each other; in which diſpute, We fired one, and ſunk five; but not without ſome loſs; for 'tis impoſſible that ſuch a Conflict ſhould b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> managed with that feli<g ref="char:EOLhyphen"/>city, as for the Conquerors to eſcape with<g ref="char:EOLhyphen"/>out
+<pb n="7" facs="tcp:118382:4"/>any head being broken. About 8 in the evening they bare up before the Wind for the Taſſel; but could not get in, for Vice-Admiral Pen, with 30 gallant frigats inter<g ref="char:EOLhyphen"/>poſed, and ſo got between them and home. But night approaching, the diſpute ended, and the next morning early They tacked about, and thought to have eſcaped; which General Blake perceiving, immediatly came up to them again; ſo that another deſperate fight began, and for many houres it was furiouſly diſputed; but about three in the afternoon, it pleaſed God to make us abſo<g ref="char:EOLhyphen"/>lute Victors, and to deliver into our hands, many hundreds of the enemy; the reſt that eſcaped are miſerably rent and torn, ſome flying towards Oſtend. Others, towards the Wielings, and not 12 left in a compa<g ref="char:EOLhyphen"/>ny. In the laſt dayes engagement we ſunk, ſeven, and took as many. We laid one of
+<pb n="8" facs="tcp:118382:5"/>their Admirals aboard five times, and at laſt carryed her.</p>
+            <p>The death of General Dean is much lamented, he was ſhot with a Canon-bullet, at the very firſt broad ſide given by the enemy, as he ſtood flou<g ref="char:EOLhyphen"/>riſhing his Sword at the head of his ſhip, having his Arm taken off by the ſhot, and his body exceed<g ref="char:EOLhyphen"/>ingly rent and torn.</p>
+            <p>VVe are now riding upon the Dutch coaſt, and have ſent many hundred ſhot into the Town of Fluſhing, and Vice-Admiral Pen ſtill lies at the mouth of the Texel.</p>
+            <closer>
+               <dateline>
+                  <hi>From aboard the Ruby off of the Willings,</hi> 
+                  <date>June 8. 1653.</date>
+               </dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
